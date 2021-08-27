@@ -31,33 +31,7 @@ Install dependencies
 ```bash
   npm install
 ```
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-  
 ## API Reference
 
 This React App uses API technologies from:
@@ -66,5 +40,5 @@ https://newsapi.org/
 https://openweathermap.org/
 https://newsapi.org/
 
-All 3 of those require an API key to use. 
+All 3 of those require an API key to use. Those are stored in .env. Please not API keys are not included and will require creation on each website or contact me for current API keys for employment screening purposes.  
   

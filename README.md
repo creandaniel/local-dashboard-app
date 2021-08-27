@@ -3,6 +3,9 @@
 An single page App, containing information of the latest news, London weather and movies. 
 
 
+![Alt text](https://github.com/creandaniel/local-dashboard-app/blob/master/Screenshot%20from%202021-08-27%2018-26-16.png?raw=true "Screenshot of app in action")
+
+
 ## Run Locally
 
 To install project locally please follow the instructions below:

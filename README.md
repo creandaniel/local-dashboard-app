@@ -40,5 +40,5 @@ https://newsapi.org/
 https://openweathermap.org/
 https://newsapi.org/
 
-All 3 of those require an API key to use. Those are stored in .env. Please not API keys are not included and will require creation on each website or contact me for current API keys for employment screening purposes.  
+All 3 of those APIs require an API key to use. Those are stored in .env. Please note API keys are not included in this repository and will require creation from each of the 3 website or contact me for current API keys for employment screening purposes.  
   
